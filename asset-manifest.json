@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/study-notion-frontend/static/css/main.f7948c82.css",
-    "main.js": "/study-notion-frontend/static/js/main.e2aec9d9.js",
+    "main.js": "/study-notion-frontend/static/js/main.b6c2c4b4.js",
     "static/media/banner.mp4": "/study-notion-frontend/static/media/banner.8e687823b1422880cc3f.mp4",
     "static/media/TimelineImage.png": "/study-notion-frontend/static/media/TimelineImage.a610b1e5d891ac77fe93.png",
     "static/media/Ellipse 1.png": "/study-notion-frontend/static/media/Ellipse 1.edd6d85729d84fbf41fd.png",
@@ -25,10 +25,10 @@
     "static/media/Logo4.svg": "/study-notion-frontend/static/media/Logo4.396cbd92b53e6362b13c448e73c6f28b.svg",
     "index.html": "/study-notion-frontend/index.html",
     "main.f7948c82.css.map": "/study-notion-frontend/static/css/main.f7948c82.css.map",
-    "main.e2aec9d9.js.map": "/study-notion-frontend/static/js/main.e2aec9d9.js.map"
+    "main.b6c2c4b4.js.map": "/study-notion-frontend/static/js/main.b6c2c4b4.js.map"
   },
   "entrypoints": [
     "static/css/main.f7948c82.css",
-    "static/js/main.e2aec9d9.js"
+    "static/js/main.b6c2c4b4.js"
   ]
 }
