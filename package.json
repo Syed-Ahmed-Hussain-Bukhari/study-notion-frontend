@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
 
-  "homepage": "https://github.com/Syed-Ahmed-Hussain-Bukhari/study-notion-frontend",
+  "homepage": "https://syed-ahmed-hussain-bukhari.github.io/study-notion-frontend",
 
   "dependencies": {
     "@ramonak/react-progress-bar": "^5.0.3",
